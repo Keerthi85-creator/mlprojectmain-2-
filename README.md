@@ -14,7 +14,7 @@ This project analyzes the factors affecting student performance and builds a reg
 - Exploratory Data Analysis (EDA) to identify impact of gender, ethnicity, parental education, and lunch type.  
 - Preprocessing: feature scaling, encoding categorical features.  
 - Feature engineering: total score, average score.  
-- Trained multiple regression models; achieved **R² > 0.90** with CatBoost.  
+- Trained multiple regression models; achieved **R² > 0.80** with CatBoost.  
 
 ## 📂 Dataset
 - Kaggle dataset with 1000 students and 8 features.  
